@@ -10,6 +10,18 @@
 
 ## Running
 
+### How You Progress
+
+There are three layers of progressive overload built into this plan:
+
+1. **Duration goes up.** Your long run grows from 35 min to 3 hours. Your easy runs grow from 25 min to 50 min.
+2. **Intensity gets added.** Phase 1 is all easy. Phase 2 adds tempo. Phase 3 adds intervals. Phase 4 adds marathon pace work.
+3. **Paces get faster naturally.** You don't force this — as your fitness improves, the same effort level produces a faster pace. Re-test every 4 weeks: run 30 min at conversational effort and note your average pace. Update your zones from there.
+
+**The 10% rule:** Total weekly running time never jumps more than ~10% from one week to the next (except recovery weeks, which drop). This is already built into the tables below.
+
+### The Weekly Pattern
+
 Your typical week has 4 runs. The only thing that changes across 20 weeks is how long the long run is and when hard efforts get added.
 
 ### The Weekly Pattern
@@ -101,70 +113,88 @@ You'll feel restless during the taper. That's normal. Trust it.
 
 ## Gym
 
-You're already strong. The gym now serves one purpose: **keep what you have** while the running takes priority. As running gets bigger, gym gets smaller.
+You're already strong. The gym serves two purposes: **grow your bench** (it's lagging) and **keep your squat/deadlift** while running takes over.
+
+### How You Progress in the Gym
+
+One simple rule per lift:
+
+| Lift | Start | Progression Rule | Ceiling |
+|---|---|---|---|
+| Bench | 37 kg (4×5) | Hit all reps cleanly? Add 2 kg next session. | No ceiling — ride it as long as it goes |
+| Squat | 105 kg (4×5) | Hit all reps for 2 weeks straight? Add 2.5 kg. | Cap at 115 kg — don't chase more |
+| Deadlift | 145 kg (3×3) | Hit all reps for 2 weeks straight? Add 5 kg. | Cap at 160 kg — don't chase more |
+| Everything else | Moderate | Hit top of rep range on all sets? Add smallest increment available. | Don't stress — these are accessories |
+
+**When you stall (and you will):** Drop the weight 10%, build back up. If you stall again on the same lift, hold that weight — it's your maintenance number for the rest of the program.
+
+**Why bench starts at 37 kg, not 45 kg:** You said 45 kg is your fumbled max. Start at ~80% of that. Build with clean reps. You'll blow past 45 kg within a few weeks and actually own the weight this time.
 
 ### Weeks 1–8: 3 days/week (Mon, Wed, Fri)
 
 **Day A — Monday (Upper)**
 
-| Exercise | Sets × Reps |
-|---|---|
-| Bench Press | 4 × 5 |
-| Barbell Row | 4 × 6 |
-| Overhead Press | 3 × 8 |
-| Pull-ups or Lat Pulldown | 3 × 8 |
+| Exercise | Sets × Reps | Starting Weight | Progression |
+|---|---|---|---|
+| Bench Press | 4 × 5 | 37 kg | +2 kg/session when all reps hit |
+| Barbell Row | 4 × 6 | 60 kg | +2.5 kg when all reps hit for 2 weeks |
+| Overhead Press | 3 × 8 | 25 kg | +1–2 kg when you get 3×8 clean |
+| Pull-ups or Lat Pulldown | 3 × 8 | BW or 50 kg | Add 2.5 kg when all reps hit |
 
 **Day B — Wednesday (Lower)**
 
-| Exercise | Sets × Reps |
-|---|---|
-| Squat | 4 × 5 at ~105 kg |
-| Romanian Deadlift | 3 × 8 at ~90 kg |
-| Bulgarian Split Squat | 3 × 8/leg |
-| Calf Raises | 3 × 15 |
+| Exercise | Sets × Reps | Starting Weight | Progression |
+|---|---|---|---|
+| Squat | 4 × 5 | 105 kg | +2.5 kg when all reps hit for 2 consecutive weeks |
+| Romanian Deadlift | 3 × 8 | 90 kg | +2.5 kg when all reps hit for 2 weeks |
+| Bulgarian Split Squat | 3 × 8/leg | 15 kg DBs | +2 kg DBs when all reps hit |
+| Calf Raises | 3 × 15 | BW+20 kg | +5 kg when all reps hit |
 
 **Day C — Friday (Deadlift + Accessories)**
 
-| Exercise | Sets × Reps |
-|---|---|
-| Deadlift | 3 × 3 at ~145 kg |
-| Incline Dumbbell Press | 3 × 8 |
-| Single-Leg RDL | 3 × 8/leg |
-| Plank | 3 × 30 sec |
+| Exercise | Sets × Reps | Starting Weight | Progression |
+|---|---|---|---|
+| Deadlift | 3 × 3 | 145 kg | +5 kg when all reps hit for 2 consecutive weeks |
+| Incline DB Press | 3 × 8 | 15 kg each | +2 kg when all reps hit |
+| Single-Leg RDL | 3 × 8/leg | 16 kg DB | +2 kg when all reps hit |
+| Plank | 3 × 30 sec | BW | Add 5 sec when it feels easy |
 
-Bench is your weak point — try to add 1–2 kg/week during this phase. Squat and deadlift stay at ~80% of max. Don't chase PRs.
+By Week 8, realistic targets: bench ~53–57 kg, squat holding at 105–115 kg, deadlift at 145–160 kg.
 
 ### Weeks 9–17: 2 days/week (Mon, Fri)
 
+Volume drops but **you keep the weight on the bar.** Whatever you built to in Weeks 1–8, you hold here.
+
 **Day A — Monday**
 
-| Exercise | Sets × Reps |
-|---|---|
-| Squat | 3 × 4 |
-| Bench Press | 3 × 5 |
-| Barbell Row | 3 × 6 |
-| Plank | 2 × 30 sec |
+| Exercise | Sets × Reps | Weight |
+|---|---|---|
+| Squat | 3 × 4 | Whatever you reached in Phase 1–2 |
+| Bench Press | 3 × 5 | Keep progressing if possible (+1 kg/week), otherwise hold |
+| Barbell Row | 3 × 6 | Hold weight from Phase 1–2 |
+| Plank | 2 × 30–45 sec | BW |
 
 **Day B — Friday**
 
-| Exercise | Sets × Reps |
-|---|---|
-| Deadlift | 2 × 3 |
-| Overhead Press | 3 × 6 |
-| Pull-ups | 3 × 6 |
-| Single-Leg RDL | 2 × 8/leg |
+| Exercise | Sets × Reps | Weight |
+|---|---|---|
+| Deadlift | 2 × 3 | Hold weight from Phase 1–2 |
+| Overhead Press | 3 × 6 | Hold or small progress |
+| Pull-ups | 3 × 6 | BW or weighted — hold |
+| Single-Leg RDL | 2 × 8/leg | Hold |
 
-30–35 min sessions. In and out. Same weights as before — maintenance, not progression.
+30–35 min sessions. The progression rule here: **if you can still add weight to bench, do it.** Everything else, just match your previous numbers. If you can't match them (legs are fried from running), drop 5–10% and don't worry about it.
 
 ### Weeks 18–20: 1 day or none
 
-One light session in Week 18 if you want it. Weeks 19–20: no gym. Focus on the race.
+One light session in Week 18 at ~60% of your working weights, high reps (3×10). Just move and feel good. Weeks 19–20: no gym.
 
 ### Gym Rules
 
-- Never go to failure. Stop 2–3 reps short.
-- If your legs are toast from a long run, skip leg day. Not the end of the world.
+- Never go to failure. Stop 2–3 reps short. You need to recover for running.
+- If your legs are toast from a long run, skip lower body. Not the end of the world.
 - If you have to choose between gym and a run, choose the run (after Week 4).
+- **Log your weights.** Even if it's just a note on your phone. You can't progressively overload what you don't track.
 
 ---
 
@@ -249,17 +279,13 @@ Skip everything else. Save your money.
 
 ## What Success Looks Like
 
-| Week | You should be able to... |
-|---|---|
-| 4 | Run 50 min without stopping |
-| 8 | Run 75 min (12 km) comfortably |
-| 12 | Run 110 min (18 km) — half-marathon distance is close |
-| 16 | Run 3 hours (30 km) — the longest training run |
-| 20 | Run 42.195 km on race day |
-
-Your body composition will change visibly around Weeks 6–8. By Week 14–16, if you've been consistent with protein and the moderate deficit, you'll be noticeably shredded.
-
-Your bench should be around 55–60 kg by Week 8. Squat and deadlift will hold steady or drop slightly — that's fine. You're becoming a different kind of athlete.
+| Week | Running | Gym | Body |
+|---|---|---|---|
+| 4 | Run 50 min non-stop | Bench ~45 kg (5×5 clean) | Starting to lean out |
+| 8 | Run 75 min (12 km) | Bench ~55 kg, squat/DL holding | Visible changes |
+| 12 | Run 110 min (18 km) | Bench ~58–62 kg, squat/DL holding | Noticeably leaner |
+| 16 | Run 3 hrs (30 km) | Bench maintained, squat/DL maybe -5% | Shredded |
+| 20 | Marathon: 42.195 km | — | Race ready |
 
 ---
 
