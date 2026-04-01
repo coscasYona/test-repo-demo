@@ -18,8 +18,10 @@
 8. [Small-Cap Energy: Undervalued High-Upside Picks](#8-small-cap-energy-undervalued-high-upside-picks)
 9. [Leveraged ETFs: Maximum Short-Term Exposure](#9-leveraged-etfs-maximum-short-term-exposure)
 10. [Nuclear & Uranium: The Structural Growth Story](#10-nuclear--uranium-the-structural-growth-story)
-11. [Quick-Return Ranking: Best to Worst Risk/Reward](#11-quick-return-ranking-best-to-worst-riskreward)
-12. [Key Risks & Exit Signals](#12-key-risks--exit-signals)
+11. [3-Month Expected Returns: April-June 2026](#11-3-month-expected-returns-april-june-2026)
+12. [What Warren Buffett Did: Berkshire Hathaway's Energy Playbook](#12-what-warren-buffett-did-berkshire-hathaways-energy-playbook)
+13. [Quick-Return Ranking: Best to Worst Risk/Reward](#13-quick-return-ranking-best-to-worst-riskreward)
+14. [Key Risks & Exit Signals](#14-key-risks--exit-signals)
 
 ---
 
@@ -349,7 +351,136 @@ Nuclear is less of a "quick return" and more of a multi-year structural play, bu
 
 ---
 
-## 11. Quick-Return Ranking: Best to Worst Risk/Reward
+## 11. 3-Month Expected Returns: April-June 2026
+
+This section estimates potential returns over the next 3 months (April-June 2026) based on analyst price targets, oil price forecasts, and the two scenarios: conflict continues vs. ceasefire.
+
+### Scenario A: Hormuz Disruption Persists Through June
+
+If the Strait of Hormuz remains disrupted, Goldman Sachs forecasts Brent staying at $93-115/bbl through Q2. In this scenario, energy stocks continue running.
+
+| Pick | Current Price (Mar 31) | 3-Month Target | Expected Return | Basis |
+|------|----------------------|----------------|-----------------|-------|
+| **CVX** | ~$196 | $212-251 | **+8% to +28%** | Morgan Stanley $212, TIKR consensus $251 |
+| **VLO** | ~$247 | $275-290 | **+11% to +17%** | Raymond James $290, crack spreads persist |
+| **XOM** | ~$170 | $172-186 | **+1% to +9%** | Morgan Stanley $172, Piper Sandler $186 |
+| **OXY** | ~$62-65 | $72-80 | **+11% to +23%** | Buffett-backed, deleveraged, $100 oil windfalls |
+| **EQT** | ~$58-62 | $63-74 | **+2% to +19%** | BofA $74, Scotiabank $63, unhedged gas upside |
+| **LNG** | ~$280 | $306-338 | **+9% to +21%** | Goldman $312, JPMorgan $338, BofA $322 |
+| **MGY** | ~$27 | $28-30 | **+4% to +11%** | Zacks Strong Buy, BofA $28, KeyCorp $30 |
+| **XLE** | ~$57.70 | $62-68 | **+7% to +18%** | 12 Buy ratings, golden cross forming |
+| **GUSH** | ~$40-45 | $55-70 | **+22% to +56%** | 2x leveraged, amplifies Scenario A |
+| **FRO** | ATH levels | +20% to +40% | **+20% to +40%** | $400K+/day freight persists |
+
+### Scenario B: Ceasefire / Hormuz Reopens by June
+
+J.P. Morgan forecasts a global oil surplus and Brent dropping below $80/bbl by Q3. Goldman's base case sees Brent at $76 for Q2 average. If peace breaks out, expect a fast repricing.
+
+| Pick | Expected Return | What Happens |
+|------|-----------------|-------------|
+| **CVX** | **-5% to +5%** | Pulls back from highs but strong balance sheet limits downside |
+| **VLO** | **-5% to +10%** | Most resilient -- refining margins can persist even as crude drops |
+| **XOM** | **-10% to 0%** | Consensus target already near current price |
+| **OXY** | **-10% to -5%** | More leveraged to oil price, gives back gains |
+| **EQT** | **-5% to +10%** | Gas has separate drivers (LNG, data centers); partially insulated |
+| **LNG** | **0% to +10%** | LNG demand persists regardless; $10B buyback supports price |
+| **MGY** | **-10% to -5%** | Small cap, more volatile on downside |
+| **XLE** | **-10% to -5%** | Broad drawdown to ~$52-55 range |
+| **GUSH** | **-30% to -50%** | Leveraged decay + oil reversal = severe losses |
+| **FRO** | **-30% to -50%** | Freight rates collapse as 200+ tankers flood back to market |
+
+### What the Data Tells Us
+
+The most important takeaway: **the spread between the two scenarios is enormous.** Picks like CVX, VLO, and LNG have asymmetric upside -- they gain significantly in Scenario A but lose modestly in Scenario B. Meanwhile GUSH, FRO, and other leveraged/tanker plays are binary bets.
+
+**Best risk/reward for 3 months:**
+1. **LNG** -- upside in both scenarios, $10B buyback floor, massive earnings power
+2. **CVX** -- multiple analyst upgrades, 4% dividend, Buffett is buying
+3. **VLO** -- refiners win in both scenarios; margins independent of crude direction
+4. **EQT** -- natural gas has its own catalysts beyond the oil crisis
+
+---
+
+## 12. What Warren Buffett Did: Berkshire Hathaway's Energy Playbook
+
+Warren Buffett has made two massive moves heading into 2026: loading up on energy and hoarding cash. Understanding both moves together reveals his macro thesis.
+
+### Move #1: Accumulated $344-382 Billion in Cash
+
+Berkshire Hathaway now holds a record **$344-382 billion in cash**, mostly in short-term U.S. Treasury bills. This is a historically extreme position.
+
+| Metric | Detail |
+|--------|--------|
+| Cash pile | $344-382B (record high) |
+| Previous peak comparison | Nearly 3x the $130B held at end of 2022 |
+| Net stock selling streak | 13 consecutive quarters |
+| Total net sales (2022-2025) | $186.7 billion more sold than purchased |
+| Stock buybacks | Paused for 6 consecutive quarters |
+| Apple shares sold | From 905M to 300M shares (~$75B liquidated) |
+| Bank of America | Trimmed by 50.8M shares in Q4 2025 |
+
+**What Buffett said:** In May 2025, he stated he saw "absolutely no compelling buying opportunities in the near term." The Buffett Indicator (stock market cap to GDP) was hovering near dot-com bubble extremes.
+
+**What it means:** Buffett believes the broad market is overvalued and is positioning for a significant correction. He wants cash ready to deploy when prices fall -- exactly what he did in 2008-2009.
+
+### Move #2: Loaded Up on Energy (Against the Trend)
+
+While selling almost everything else, Buffett was **buying energy**. This is the clearest signal of his conviction.
+
+**Chevron (CVX):**
+
+| Metric | Detail |
+|--------|--------|
+| Shares owned | 130,156,362 |
+| Q4 2025 additions | +8,091,570 shares (+7%) |
+| Portfolio weight | 7.24% ($19.84B) |
+| Position rank | 5th largest in Berkshire portfolio |
+| Cost basis (Q4 buys) | ~$64/share average |
+| Current value vs. cost (Q4 buys) | **+$7.5B profit** at $170+/share |
+
+Buffett bought 8 million shares of Chevron at ~$64 and it's now trading above $190. That's a roughly **200% gain** on those Q4 shares in under 4 months.
+
+**Occidental Petroleum (OXY):**
+
+| Metric | Detail |
+|--------|--------|
+| Shares owned | 264,941,431 |
+| Ownership stake | ~26-29% of the company |
+| Portfolio value | $10.89B (3.97% of portfolio) |
+| OxyChem acquisition | Bought OXY's chemical division for $9.7B (Jan 2026) |
+| Buffett on CEO | "Vicki Hollub is running the company the right way" |
+
+**What makes OXY special to Buffett:**
+- OxyChem sale allowed OXY to pay down $5.8B in debt, getting total debt below $15B
+- OXY generated $963M in free cash flow in Q4 2025 at only $59/bbl oil
+- 8-9% dividend increase in early 2026
+- Permian Basin operations with some of the lowest extraction costs in the industry
+- With oil at $95-100+, OXY is printing cash at rates Buffett likely anticipated
+
+### Move #3: The Combined Strategy
+
+Buffett's playbook, reading between the lines:
+
+1. **Sell overvalued assets** (Apple, BofA, AmEx trims) at peak prices
+2. **Buy undervalued energy** when oil was in the $55-65 range and everyone was bearish
+3. **Hoard cash** for the broader market correction he expects
+4. **Collect T-bill yield** (~5%) on $350B+ while waiting
+
+**The result:** Berkshire's energy positions have surged 30-60%+ while the broader market has declined. The cash pile earns ~$17-19B/year in risk-free T-bill interest. When the correction comes, Buffett will have $350B+ to buy quality assets at discounts -- the same playbook he used in 2008 when he invested $25B across Goldman Sachs, GE, and others at fire-sale prices.
+
+### What You Can Learn From Buffett
+
+| Principle | What He Did | What You Can Do |
+|-----------|-------------|-----------------|
+| **Buy when others are fearful** | Bought CVX at $64 when oil was at $55 and sentiment was negative | Look for quality energy stocks on pullbacks, not at all-time highs |
+| **Quality over speculation** | CVX and OXY, not tanker stocks or leveraged ETFs | Stick to companies with strong balance sheets and low breakeven costs |
+| **Don't overpay for anything** | Sold Apple, BofA, paused buybacks when prices were high | If an energy stock has already run 40%+, it may be too late for quick returns |
+| **Cash is a position** | $350B+ in T-bills earning 5% | There's no shame in holding cash and waiting for better prices |
+| **Time horizon matters** | Buffett isn't looking for 3-month trades | The highest-conviction energy plays are multi-year holds, not quick flips |
+
+---
+
+## 13. Quick-Return Ranking: Best to Worst Risk/Reward
 
 Ordered by estimated near-term return potential balanced against risk.
 
@@ -377,7 +508,7 @@ Ordered by estimated near-term return potential balanced against risk.
 
 ---
 
-## 12. Key Risks & Exit Signals
+## 14. Key Risks & Exit Signals
 
 ### Exit Signal #1: Ceasefire or Hormuz Reopening
 
@@ -412,20 +543,31 @@ If prices stay elevated long enough to trigger recession-level demand destructio
 
 ## Sources
 
-1. **Morgan Stanley** - CVX upgrade to "Overweight," $212 target (March 2026)
-2. **JPMorgan** - CVX "Overweight," LNG target $338 (March 2026)
+1. **Morgan Stanley** - CVX upgrade to "Overweight" $212, XOM raised to $172 (March 2026)
+2. **JPMorgan** - CVX "Overweight," LNG target $338, OXY $52 target (March 2026)
 3. **Raymond James** - VLO $290 target, PSX $205 target (March 2026)
 4. **Zacks Research** - MGY upgrade to "Strong Buy" (March 2026)
-5. **Goldman Sachs** - 2026 Brent forecast and Hormuz supply analysis
+5. **Goldman Sachs** - 2026 Brent forecast, Hormuz supply analysis, LNG $312 target
 6. **U.S. EIA** - Short-Term Energy Outlook, Brent Q2 forecast
 7. **ETF.com** - 2026 ETF performance rankings
 8. **247 Wall Street** - Energy ETF performance analysis
 9. **Ainvest** - Tanker shipping and freight rate reporting
 10. **Reuters** - Hormuz shipping cost surge, Cheniere earnings
-11. **CrowdStrike, Trefis** - Cybersecurity conflict trade analysis
-12. **Insider Monkey** - Small-cap energy analyst ratings
-13. **Motley Fool** - Oil major stock analysis (March 2026)
-14. **TIKR.com** - CVX analyst upside, EQT price analysis
+11. **Insider Monkey** - Small-cap energy analyst ratings
+12. **Motley Fool** - Oil major stock analysis, Buffett CVX/OXY analysis (March 2026)
+13. **TIKR.com** - CVX analyst upside $251, EQT price analysis
+14. **Benzinga** - Berkshire CVX position gains analysis (March 2026)
+15. **Business Insider** - Buffett stock sales, cash pile reporting (Feb 2026)
+16. **Ainvest** - Berkshire $381.7B cash hoard analysis (Jan 2026)
+17. **Moatifi** - Berkshire 2026 portfolio breakdown, $344B cash position
+18. **Yahoo Finance** - Buffett $373B "warning" analysis, OXY 29% stake confidence
+19. **Giantsight** - Berkshire Q1 2026 13F complete holdings data
+20. **MarketBeat** - XOM consensus $148-151, EQT $63-74, LNG $268-338 targets
+21. **Bank of America** - XOM $151, EQT $74, LNG $322 targets
+22. **Piper Sandler** - XOM $186 target (March 2026)
+23. **Scotiabank** - EQT $63 target, natural gas supply deficit thesis
+24. **Barclays** - EQT $64 target, upstream sector resilience (Jan 2026)
+25. **Seeking Alpha** - XLE 2026 outlook, energy sector fundamentals
 
 ---
 
