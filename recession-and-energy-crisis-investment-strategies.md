@@ -6,6 +6,8 @@
 
 ---
 
+**See also:** [Current Energy Stocks & ETFs: Near-Term Return Opportunities](current-energy-stocks-and-etfs.md) -- a focused analysis of the best energy stocks, ETFs, and leveraged instruments for quick returns in the current April 2026 market.
+
 ## Table of Contents
 
 1. [Historical Recessions: Market Impact & Recovery](#1-historical-recessions-market-impact--recovery)
